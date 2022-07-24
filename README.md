@@ -3,17 +3,17 @@ Created a simple Maven project, created a  YAML file and write student data in i
 
 ## SnapShots
 ## 1 Controller format
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/1.png)
+![web](https://github.com/codewithrathi/Snake-Yaml-Project/blob/main/Images/1.png)
 ## 2 Yaml file
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/2.png)
+![web](https://github.com/shinchancode/Snake-Yaml-Project/blob/main/Images/2.png)
 ## 3 GET request
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/3.png)
+![web](https://github.com/shinchancode/Snake-Yaml-Project/blob/main/Images/3.png)
 
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/4.png)
+![web](https://github.com/shinchancode/Snake-Yaml-Project/blob/main/Images/4.png)
 ## 5 POST request
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/5.png)
+![web](https://github.com/shinchancode/Snake-Yaml-Project/blob/main/Images/5.png)
 
-![web](https://github.com/shinchancode/-Snake-Yaml-Project/blob/main/Images/6.png)
+![web](https://github.com/shinchancode/Snake-Yaml-Project/blob/main/Images/6.png)
 
 ## RESOURCES
 # Spring Boot / Jersey with API Development(CRUD)
